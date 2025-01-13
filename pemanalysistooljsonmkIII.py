@@ -4,7 +4,7 @@ import openai
 import json
 import time 
 
-openai.api_key = "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"
+openai.api_key = "*****************"
 
 prob_mapping = {
     "Triangle Type": "6-triangle-type",
